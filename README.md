@@ -13,6 +13,7 @@ First, install necessary dependencies:
 - Install Pandas: pip3 install pandas
 - Install Joblib: pip3 install joblib
 - Install Tensorflow: pip3 install "tensorflow>=2.0.0"
+- Install Scikit-Learn: pip3 install scikit-learn
 
 Run the Following File:
 TermProjectFinalMainFile.py
