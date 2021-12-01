@@ -8,11 +8,11 @@ Instructions and Notes for Running Yuvi Chess Trainer:
 
 First, install necessary dependencies:
 
-Install Numpy: pip3 install numpy
-Install PyTorch: pip3 install torch torchvision
-Install Pandas: pip3 install pandas
-Install Joblib: pip3 install joblib
-Install Tensorflow: pip3 install "tensorflow>=2.0.0"
+- Install Numpy: pip3 install numpy
+- Install PyTorch: pip3 install torch torchvision
+- Install Pandas: pip3 install pandas
+- Install Joblib: pip3 install joblib
+- Install Tensorflow: pip3 install "tensorflow>=2.0.0"
 
 Run the Following File:
 TermProjectFinalMainFile.py
