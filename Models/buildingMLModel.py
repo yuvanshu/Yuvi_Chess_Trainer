@@ -7,6 +7,9 @@ import pandas
 # Loading Chess Evaluation Dataset
 #################################################
 
+# Citation for Dataset: https://www.kaggle.com/ronakbadhe/chess-evaluations
+# This source details where the data was found and downloaded from
+
 # Citation: https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 # This documentation explains how to load a csv file using pandas.read_csv() function
 
