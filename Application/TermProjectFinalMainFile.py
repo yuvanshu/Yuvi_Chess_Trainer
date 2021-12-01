@@ -39,6 +39,9 @@ import decimal
 # Background Screen Image Citation: https://wallpaperaccess.com/cool-chess
 # Menu Screen Image Citation: https://www.peakpx.com/en/hd-wallpaper-desktop-ouoxb
 
+# cmu_112_graphics Citation: https://www.cs.cmu.edu/~112/index.html
+# This graphics file is developed and distributed by Carnegie Mellon Course: 15-112
+
 #################################################
 # Inializer (appStarted) function
 #################################################
